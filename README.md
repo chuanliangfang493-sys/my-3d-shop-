@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <title>商品 3D 展示 · 下单页面</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="ビーズ" content="width=device-width, initial-scale=1.0">
   <style>
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
