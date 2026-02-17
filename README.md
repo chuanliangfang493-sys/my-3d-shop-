@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <title>商品 3D 展示 · 下单页面</title>
-  <meta name="ビーズ" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <style>
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
@@ -51,14 +52,15 @@
     }
   </style>
 </head>
+
 <body>
   <div class="container">
     <h1>商品名称（这里改）</h1>
     <p>商品简单介绍，可写规格、成色、价格等。</p>
 
     <!-- 3D展示区域 -->
-    <iframe 
-      src="这里放3D链接"
+    <iframe
+      src="这里替换成你的3D链接"
       allowfullscreen>
     </iframe>
 
